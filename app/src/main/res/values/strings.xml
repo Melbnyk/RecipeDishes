@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Recipes of dishes</string>
+
+    <string name="api_key">3c19cd96124d4cca99ba402b6f6b8b18</string>
+
+
+    <string-array name="tags">
+        <item>main course</item>
+        <item>side dish</item>
+        <item>appetizer</item>
+        <item>bread</item>
+        <item>soup</item>
+        <item>drink</item>
+        <item>beverage</item>
+        <item>salad</item>
+        <item>breakfast</item>
+        <item>sauce</item>
+        <item>fingerfood</item>
+    </string-array>
+</resources>
